@@ -1,4 +1,4 @@
-# nikolaev-front
+# filipchenkova-front
 
 ## Project setup
 ```
